@@ -29,7 +29,7 @@ Ele possui suporte a diferentes vozes, ajustes de velocidade/volume e planos Fre
 ---
 
 ## 📥 Download
-➡️ [Clique aqui para baixar o instalador (.exe)](https://github.com/semplicio/Leitor-Inclusivo-Beta/releases/latest/download/LeitorInclusivo-Setup.exe)  
+➡️ [Clique aqui para baixar o instalador (.exe)](https://drive.google.com/file/d/1Q1DGJhhjRITUQw4vksZucFKvFlW7KsAk/view?usp=sharing)  
 
 *(O link acima será válido após você criar uma release no GitHub e adicionar o instalador.)*
 
