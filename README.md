@@ -13,6 +13,7 @@ Ele possui suporte a diferentes vozes, ajustes de velocidade/volume e planos Fre
 
 ### Tela Principal  
 ![Tela Principal](assets/main.png)
+![Tela Principal](assets/main1.png)
 
 ### Ativação do Plano Plus  
 ![Plano Plus](assets/plus.png)
